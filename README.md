@@ -1,1 +1,1 @@
-# race-game
+# https://ilyaberzhanin.github.io/race-tetris-game/
